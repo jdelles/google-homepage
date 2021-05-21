@@ -1,2 +1,24 @@
 # google-homepage
-from TheOdinProject.com - the goal of this project is to replicate the Google homepage styling
+From [The Odin Project](https://www.theodinproject.com) 
+
+
+## Introduction
+The purpose of this project is to deconstruct an existing web page and rebuild it. In this case, we will use the Google homepage. 
+
+## Skill to be demonstrated
+- HTML
+- CSS
+
+## Tools used
+- VSCode
+- Live Server
+- Chrome Developer Tools
+- Terminal (Mac)
+- Git / GitHub
+
+## To do 
+- [ ] main layout
+- [ ] logo
+- [ ] search bar
+- [ ] nav
+- [ ] footer
