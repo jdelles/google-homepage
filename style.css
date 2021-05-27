@@ -17,6 +17,44 @@ html {
   font-family: Arial, Helvetica, sans-serif;   
 }
 
+header {
+    width: 100vw; 
+    display: flex; 
+    top: 0; 
+    position: fixed; 
+    padding: 1rem; 
+    font-size: 14px; 
+}
+
+header img {
+    display: block; 
+    border-radius: 50%; 
+    border: 2px solid transparent; 
+}
+
+header img:hover {
+    border: 2px solid black; 
+}
+
+header a {
+    display: table-cell; 
+    vertical-align: middle; 
+    line-height: 32px; 
+}
+
+main {
+    height: 100vh; 
+    width: 100vw; 
+    display: grid; 
+    justify-content: center;
+    align-items: center;
+}
+
+main img {
+    width: 272px; 
+    height: auto; 
+}
+
 footer {
     width: 100vw; 
     display: flex; 
@@ -27,23 +65,23 @@ footer {
     font-size: 14px; 
 }
 
-footer ul {
+ul {
     display: flex; 
     flex-direction: row; 
     flex-wrap: nowrap; 
     gap: 2rem; 
 }
 
-footer li {
+li {
     list-style: none; 
 }
 
-footer a {
+a {
     color: black; 
     text-decoration: none;
 }
 
-footer a:hover {
+a:hover {
     text-decoration: underline;
     cursor: pointer; 
 }
