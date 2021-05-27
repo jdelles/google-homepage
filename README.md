@@ -17,8 +17,8 @@ The purpose of this project is to deconstruct an existing web page and rebuild i
 - Git / GitHub
 
 ## To do 
-- [ ] main layout - need to make google image appear properly and add search box
-- [ ] logo - logo is very small for some reason
-- [ ] search bar 
-- [ ] nav - need to add the 3x3 circle grid and make the image shadow on hover work
+- [X] main layout 
+- [X] logo
+- [ ] search bar - color the search and mic images
+- [ ] nav - background behind app grid on hover 
 - [ ] footer - underline between leaf image and C in carbon needs to go
