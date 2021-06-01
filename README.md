@@ -19,6 +19,6 @@ The purpose of this project is to deconstruct an existing web page and rebuild i
 ## To do 
 - [X] main layout 
 - [X] logo
-- [ ] search bar - color the search and mic images
-- [ ] nav - background behind app grid on hover 
-- [ ] footer - underline between leaf image and C in carbon needs to go
+- [ ] search bar - coloring the mic image 
+- [X] nav 
+- [X] footer 
